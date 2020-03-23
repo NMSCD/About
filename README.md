@@ -3,7 +3,7 @@ The NMS community is varied, many different play styles and xxx have caused us a
 
 ## Who are we?
 Our Members
-- Assistant for No Man's Sky
+- [Assistant for No Man's Sky](https://github.com/AssistantNMS)
 - You?
 
 ## How to join?
