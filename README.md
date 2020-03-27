@@ -1,5 +1,5 @@
 # About
-The NMS community is varied, many different play styles and xxx have caused us all to get a bit separated. So hopefully the more initiaves that exist, that try and group us all together or link/connect us together, the closer we all can be in this large Galaxy.
+The NMS community is varied, many different play styles and community rivalry have caused us all to get a bit separated. So hopefully the more initiaves that exist, that try and group us all together or link/connect us together, the closer we all can be in this large Galaxy.
 
 ## Who are we?
 Our Members
