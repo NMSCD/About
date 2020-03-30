@@ -5,7 +5,7 @@ The NMS community is varied, many different play styles and community rivalry ha
 List of projects supported by the NMSCD 
 
 - [Assistant for No Man's Sky](https://nmsassistant.com) - 2020-03-30
-  - Khaoz-Topsy
+  - [Khaoz-Topsy](https://github.com/Khaoz-Topsy)
 
 ## How to join?
 You can send an email or create a pull request, join some Discord's and ask the right people, etc
