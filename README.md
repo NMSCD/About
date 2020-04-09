@@ -20,7 +20,7 @@ We are growing and this is the best and easiest time to join
 
 Being part of the Supported projects allows use of our banners and badges below:
 
-Banner designed by [Sphynxcolt](https://github.com/Sphynxcolt)
+Banner designed by [Sphynxcolt](https://github.com/Sphynxcolt) and [LionessLilo](https://github.com/LionessLilo)
 ![banner](./banner/current.png)
 
 
