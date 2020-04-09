@@ -8,6 +8,9 @@ List of projects supported by the NMSCD
   - [Khaoz-Topsy](https://github.com/Khaoz-Topsy)
   - [Blend3rman](https://github.com/Blend3rman)
   - [Vapour38](https://github.com/Vapour38)
+- [NMS FAQ Bot](https://github.com/AssistantNMS/nms-faq-bot) - 2020-03-30
+  - [Blend3rman](https://github.com/Blend3rman)
+  - [Vapour38](https://github.com/Vapour38)
 - [No Man's Sky Universal Font](https://github.com/NMSCD/No-Mans-Sky-Universal-Font) - 2020-04-08
   - [YakuzaSuske](https://github.com/YakuzaSuske)
 
