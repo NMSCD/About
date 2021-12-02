@@ -15,6 +15,8 @@ List of projects supported by the NMSCD
   - [YakuzaSuske](https://github.com/YakuzaSuske)
 - [Portal Repository](https://portalrepository.com/) - 2020-05-15 
   - [AtmoVantage](https://github.com/atmovantage)
+- [NMS Color Parser](https://nmscd.github.io/nmscolorparser/) - 2021-04-23
+  - [rogerhnn](https://github.com/rogerhnn)
 
 ## How to join?
 You can send an email or create a pull request, join some Discord's and ask the right people, etc
