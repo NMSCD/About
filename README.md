@@ -17,6 +17,9 @@ List of projects supported by the NMSCD
   - [AtmoVantage](https://github.com/atmovantage)
 - [NMS Color Parser](https://nmscd.github.io/nmscolorparser/) - 2021-04-23
   - [rogerhnn](https://github.com/rogerhnn)
+- [nms-archive](https://github.com/NMSCD/nms-archive) - 2021-10-1
+  - [Lenni009](https://github.com/Lenni009)
+
 
 ## How to join?
 You can send an email or create a pull request, join some Discord's and ask the right people, etc
