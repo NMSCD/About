@@ -34,3 +34,7 @@ Banner designed by [Sphynxcolt](https://github.com/Sphynxcolt) and [LionessLilo]
 Badges: 
 - [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/green.svg)](https://github.com/NMSCD)
 - [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/purple.svg)](https://github.com/NMSCD)
+
+Badges (For The Badge style): 
+- [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/green-ftb.svg)](https://github.com/NMSCD)
+- [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/purple-ftb.svg)](https://github.com/NMSCD)
