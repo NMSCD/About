@@ -1,5 +1,5 @@
 # About
-The NMS community is varied, many different play styles and community rivalry have caused us all to get a bit separated. So hopefully the more initiaves that exist, that try and group us all together or link/connect us together, the closer we all can be in this large Galaxy.
+The NMS community is varied, and many different play styles and community rivalries have caused us all to get a bit separated. So hopefully the more initiaves that try and group and link/connect us together, the closer we all can be in this procedural universe.
 
 ## Supported Projects
 List of projects supported by the NMSCD (ordered by recency of development efforts):
@@ -22,12 +22,11 @@ List of projects supported by the NMSCD (ordered by recency of development effor
 
 
 
-## How to join?
-Join the [NMSCD Discord Server](https://discord.gg/PvpAteKjXU) and tag Admins with a link to your project's Github repo. Projects big and small are welcome, you don't need to be a coding genius like [Khaoz-Topsy](https://github.com/Khaoz-Topsy) to be part of the NMSCD 😛
+## How to join
+Join the [NMSCD Discord Server](https://discord.gg/PvpAteKjXU) and tag Admins with a link to your project's Github repo. Projects big and small are welcome; you don't need to be a coding genius like [Khaoz-Topsy](https://github.com/Khaoz-Topsy) to be part of the NMSCD 😛
 
-Being part of the Supported projects allows use of our banners and badges below:
-
-Banner designed by [Sphynxcolt](https://github.com/Sphynxcolt) and [LionessLilo](https://github.com/LionessLilo)
+Being part of the Supported projects allows use of our banners and badges below: <br>
+(Banner designed by [Sphynxcolt](https://github.com/Sphynxcolt) and [LionessLilo](https://github.com/LionessLilo))
 ![banner](./banner/current.png)
 
 
